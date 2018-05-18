@@ -1,0 +1,22 @@
+D:\программирование\1курс\2 семестр\C#\Solution2\Task8_Form\obj\Debug\Task8_Form.csprojResolveAssemblyReference.cache
+D:\программирование\1курс\2 семестр\C#\Solution2\Task8_Form\obj\Debug\Task8_Form.Form8.resources
+D:\программирование\1курс\2 семестр\C#\Solution2\Task8_Form\obj\Debug\Task8_Form.Properties.Resources.resources
+D:\программирование\1курс\2 семестр\C#\Solution2\Task8_Form\obj\Debug\Task8_Form.csproj.GenerateResource.Cache
+D:\программирование\1курс\2 семестр\C#\Solution2\Task8_Form\bin\Debug\Task8_Form.exe.config
+D:\программирование\1курс\2 семестр\C#\Solution2\Task8_Form\bin\Debug\Task8_Form.exe
+D:\программирование\1курс\2 семестр\C#\Solution2\Task8_Form\bin\Debug\Task8_Form.pdb
+D:\программирование\1курс\2 семестр\C#\Solution2\Task8_Form\bin\Debug\Task8_BL.dll
+D:\программирование\1курс\2 семестр\C#\Solution2\Task8_Form\bin\Debug\Task8_BL.pdb
+D:\программирование\1курс\2 семестр\C#\Solution2\Task8_Form\obj\Debug\Task8_Form.exe
+D:\программирование\1курс\2 семестр\C#\Solution2\Task8_Form\obj\Debug\Task8_Form.pdb
+F:\c#\Solution2\Task8_Form\bin\Debug\Task8_Form.exe.config
+F:\c#\Solution2\Task8_Form\bin\Debug\Task8_Form.exe
+F:\c#\Solution2\Task8_Form\bin\Debug\Task8_Form.pdb
+F:\c#\Solution2\Task8_Form\bin\Debug\Task8_BL.dll
+F:\c#\Solution2\Task8_Form\bin\Debug\Task8_BL.pdb
+F:\c#\Solution2\Task8_Form\obj\Debug\Task8_Form.csprojResolveAssemblyReference.cache
+F:\c#\Solution2\Task8_Form\obj\Debug\Task8_Form.Form8.resources
+F:\c#\Solution2\Task8_Form\obj\Debug\Task8_Form.Properties.Resources.resources
+F:\c#\Solution2\Task8_Form\obj\Debug\Task8_Form.csproj.GenerateResource.Cache
+F:\c#\Solution2\Task8_Form\obj\Debug\Task8_Form.exe
+F:\c#\Solution2\Task8_Form\obj\Debug\Task8_Form.pdb
