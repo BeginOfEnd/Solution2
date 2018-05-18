@@ -1,0 +1,10 @@
+D:\программирование\1курс\2 семестр\C#\Solution2\Task5_BL\bin\Debug\Task5_BL.dll
+D:\программирование\1курс\2 семестр\C#\Solution2\Task5_BL\bin\Debug\Task5_BL.pdb
+D:\программирование\1курс\2 семестр\C#\Solution2\Task5_BL\obj\Debug\Task5_BL.dll
+D:\программирование\1курс\2 семестр\C#\Solution2\Task5_BL\obj\Debug\Task5_BL.pdb
+F:\c#\Solution2\Task5_BL\bin\Debug\Task5_BL.dll
+F:\c#\Solution2\Task5_BL\bin\Debug\Task5_BL.pdb
+F:\c#\Solution2\Task5_BL\obj\Debug\Task5_BL.csprojResolveAssemblyReference.cache
+F:\c#\Solution2\Task5_BL\obj\Debug\Task5_BL.dll
+F:\c#\Solution2\Task5_BL\obj\Debug\Task5_BL.pdb
+D:\программирование\1курс\2 семестр\c#\Solution2\Task5_BL\obj\Debug\Task5_BL.csprojResolveAssemblyReference.cache
