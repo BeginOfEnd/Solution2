@@ -1,0 +1,4 @@
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_BL\bin\Debug\Task6_BL.dll
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_BL\bin\Debug\Task6_BL.pdb
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_BL\obj\Debug\Task6_BL.dll
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_BL\obj\Debug\Task6_BL.pdb
