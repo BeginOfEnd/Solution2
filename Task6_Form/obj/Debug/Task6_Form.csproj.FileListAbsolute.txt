@@ -1,0 +1,11 @@
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_Form\bin\Debug\Task6_Form.exe.config
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_Form\bin\Debug\Task6_Form.exe
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_Form\bin\Debug\Task6_Form.pdb
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_Form\bin\Debug\Task6_BL.dll
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_Form\bin\Debug\Task6_BL.pdb
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_Form\obj\Debug\Task6_Form.csprojResolveAssemblyReference.cache
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_Form\obj\Debug\Task6_Form.Form6.resources
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_Form\obj\Debug\Task6_Form.Properties.Resources.resources
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_Form\obj\Debug\Task6_Form.csproj.GenerateResource.Cache
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_Form\obj\Debug\Task6_Form.exe
+D:\программирование\1курс\2 семестр\c#\Solution2\Task6_Form\obj\Debug\Task6_Form.pdb
