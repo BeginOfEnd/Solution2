@@ -1,0 +1,9 @@
+D:\программирование\1курс\2 семестр\C#\Solution2\Task7_BL\bin\Debug\Task7_BL.dll
+D:\программирование\1курс\2 семестр\C#\Solution2\Task7_BL\bin\Debug\Task7_BL.pdb
+D:\программирование\1курс\2 семестр\C#\Solution2\Task7_BL\obj\Debug\Task7_BL.dll
+D:\программирование\1курс\2 семестр\C#\Solution2\Task7_BL\obj\Debug\Task7_BL.pdb
+F:\c#\Solution2\Task7_BL\bin\Debug\Task7_BL.dll
+F:\c#\Solution2\Task7_BL\bin\Debug\Task7_BL.pdb
+F:\c#\Solution2\Task7_BL\obj\Debug\Task7_BL.csprojResolveAssemblyReference.cache
+F:\c#\Solution2\Task7_BL\obj\Debug\Task7_BL.dll
+F:\c#\Solution2\Task7_BL\obj\Debug\Task7_BL.pdb
